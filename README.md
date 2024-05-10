@@ -1,4 +1,3 @@
-```markdown
 # Perfex CRM PHP Script
 
 ## Short Description
@@ -40,5 +39,3 @@ Perfex CRM ensures customer satisfaction with its robust support system, integra
 
 ## Are You Considering Purchasing Perfex CRM?
 Relevant feedback and issues can be found on our support page.
-```
-This Markdown file provides a comprehensive overview of Perfex CRM PHP Script, highlighting its features, benefits, and demo login credentials.
