@@ -1,10 +1,11 @@
-# Perfex CRM Nulled PHP Script
+```markdown
+# Perfex CRM PHP Script
 
 ## Short Description
 Perfex CRM is a self-hosted customer relationship management tool designed to enhance business performance and professionalism. It offers features such as task linking, project management, expert estimates and invoices, an auto-import support system, task completion time tracking, and customer billing. Additionally, the CRM facilitates lead tracking, proposal creation, spending reporting, inbuilt surveys, goal tracking, contracts, announcements, custom fields, and multi-currency payments. With customizable branding options, including a calendar for employees and a separate media folder for non-admin workers, Perfex CRM is adaptable to various business needs. The support system ensures prompt issue response and consumer reminders for client satisfaction.
 
 ## Description
-Perfex CRM Nulled PHP Script is a self-hosted customer relationship management software suitable for freelancers, businesses of all sizes, and various other applications. Its sleek and modern design can improve business performance and professionalism.
+Perfex CRM PHP Script is a self-hosted customer relationship management software suitable for freelancers, businesses of all sizes, and various other applications. Its sleek and modern design can improve business performance and professionalism.
 
 ### Features
 - **Project Management**: Manage and bill for projects efficiently.
@@ -32,5 +33,12 @@ Perfex CRM Nulled PHP Script is a self-hosted customer relationship management s
 ### Customer Focus
 Perfex CRM ensures customer satisfaction with its robust support system, integrated ticket system, and customer reminders. Quick action can be taken with just one click, assigning reminders to yourself, staff members, or other individuals, and sending them via email and in-app notifications.
 
+## Demo
+- **Login URL**: [https://infyprojects.infyom.com/login](https://infyprojects.infyom.com/login)
+- **Admin Login**: admin@infyprojects.com / admin@12345
+- **User Login**: aidenbulter@gmail.com / 123456
+
 ## Are You Considering Purchasing Perfex CRM?
 Relevant feedback and issues can be found on our support page.
+```
+This Markdown file provides a comprehensive overview of Perfex CRM PHP Script, highlighting its features, benefits, and demo login credentials.
