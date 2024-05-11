@@ -1,36 +1,71 @@
-# Perfex CRM PHP Script
+# InfyProjects - Project Management and Time Tracking System
 
-## Short Description
-Perfex CRM is a self-hosted customer relationship management tool designed to enhance business performance and professionalism. It offers features such as task linking, project management, expert estimates and invoices, an auto-import support system, task completion time tracking, and customer billing. Additionally, the CRM facilitates lead tracking, proposal creation, spending reporting, inbuilt surveys, goal tracking, contracts, announcements, custom fields, and multi-currency payments. With customizable branding options, including a calendar for employees and a separate media folder for non-admin workers, Perfex CRM is adaptable to various business needs. The support system ensures prompt issue response and consumer reminders for client satisfaction.
+## Features Description
 
-## Description
-Perfex CRM PHP Script is a self-hosted customer relationship management software suitable for freelancers, businesses of all sizes, and various other applications. Its sleek and modern design can improve business performance and professionalism.
+### Dashboard
+The dashboard provides a comprehensive view of the entire system with visual reports, including:
+- **User Report**: Track each team member's project involvement and time spent.
+- **Daily Work Report**: Monitor daily work allocation and time spent on each project.
+- **Open Tasks**: Plan resources effectively by identifying overloaded projects and open tasks.
 
-### Features
-- **Project Management**: Manage and bill for projects efficiently.
-- **Task Organization**: Stay organized by linking tasks to various CRM capabilities.
-- **Professional Quotes and Invoices**: Prepare professional-looking quotes and invoices.
-- **Support System**: Powerful support system with automatic ticket import.
-- **Time Tracking**: Record time spent on each task and bill clients accordingly.
-- **Multi-Employee Task Assignment**: Assign multiple employees to tasks and monitor their timers.
-- **Task Followers**: Add task followers for monitoring task progress.
-- **Lead Management**: Organize leads, create bids, provide comments, and import leads from email.
-- **Proposal Creation**: Create compelling proposals for leads or clients.
-- **Expense Tracking**: Keep track of business/project expenses and generate invoices automatically.
-- **Customer Insights**: Discover more about customers with a powerful CRM.
-- **Customer Surveys**: Increase customer loyalty with integrated surveys.
-- **Goals Tracking**: Track sales targets with the Goals Tracking feature.
-- **Announcements**: Announce things to staff and customers.
-- **Contracts**: Use contracts to guarantee sales.
-- **Custom Fields**: Store extra data for leads, customers, and other entities.
-- **Payment Integration**: Accept payments from Stripe and PayPal in various currencies.
-- **Theme Styling Tool**: Customize the CRM to match your company's branding.
-- **Media Folder for Employees**: Non-admin employees can manage files and uploads in a separate media folder.
-- **Employee Calendars**: Gorgeous calendars based on permissions for every employee.
-- **Additional Features**: Files, notes, reports, and follow-ups.
+### Departments
+Departments allow for project division based on categories like Outsourcing, Product, Training, and Marketing. It helps track time spent in each department by team members.
 
-### Customer Focus
-Perfex CRM ensures customer satisfaction with its robust support system, integrated ticket system, and customer reminders. Quick action can be taken with just one click, assigning reminders to yourself, staff members, or other individuals, and sending them via email and in-app notifications.
+### Clients
+Clients represent individuals or organizations providing projects. Each client belongs to a specific department.
+
+### Projects
+Projects are initiated with associated clients, prefixes, user assignments, and budget definitions (Fixed Priced or Hourly). Tasks and invoices are based on project budgets.
+
+### Tasks
+Tasks include various details such as title, project, priority, assignee, due date, tags, and description. Tasks can be assigned to multiple team members, facilitating collaboration.
+
+### Easy-to-Use Interface
+A user-friendly interface simplifies task management, allowing completion of primary tasks without navigating away from the screen.
+
+### Filtering and Sorting
+Tasks can be filtered and sorted based on attributes like assignee, project, due date, and status, enhancing organization and efficiency.
+
+### Attachments
+Files and media can be attached to tasks for clarity and reference, aiding in task specification and requirement definition.
+
+### Comments
+Comments enable collaboration among team members by facilitating task discussions and clarifications.
+
+### Time Entries
+Time entries track time spent on projects and tasks, aiding in project progress tracking and invoicing.
+
+### Time Tracking Widget
+An always-ready time tracking widget allows users to start and stop timers, even offline, and insert notes for time entries.
+
+### Reports
+Reports provide insights into team performance, billing, invoices, and project budget adherence. Two types of reports are available:
+- **Static Reports**: Snapshots of system data, useful for future reference.
+- **Dynamic Reports**: Updated dynamically based on selected filters, providing real-time data.
+
+### Users
+Users represent team members with assigned roles and projects. User management includes role assignment and salary specification.
+
+### Roles
+Each user is assigned a role with specific permissions, allowing access to features/modules based on their role.
+
+### Invoices
+Invoices can be created from reports or manually. Automatic calculation is available for hourly projects, while manual entry is provided for fixed-price projects.
+
+### Settings
+Settings allow customization of branding and general configurations, including app name, company details, multi-lingual support, taxes, and working hours/days.
+
+## Languages Supported
+- English
+- Spanish
+- French
+- German
+- Russian
+- Portuguese
+- Arabic
+- Chinese
+
+Tags: project management software, task management system, time tracking, invoices, reports, staff team management, user management, business management, project timer, client manager, freelancer
 
 ## Demo
 - **Login URL**: [https://infyprojects.infyom.com/login](https://infyprojects.infyom.com/login)
