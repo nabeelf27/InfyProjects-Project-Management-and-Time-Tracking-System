@@ -1,4 +1,4 @@
-# InfyProjects - Project Management and Time Tracking System
+# InfyProjects - Project Management & Time Tracking System
 
 ## Features Description
 
